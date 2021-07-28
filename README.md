@@ -1,3 +1,6 @@
+# ShowHeroes
+- v1.1.0 Forked and changed to support Laravel 8
+
 Laravel package for Google Translate REST API
 ====================
 
